@@ -1,0 +1,2 @@
+# Data-Cleaning-and-Analytics
+This project consists of 3 excel sheets on which analysis has been performed. The first sheet contains the Marks obtained by every student in every question. The second sheet consists of the values of various parameters. The third sheet has marks against a particular parameter. Upon these three sheets data is first cleaned and organized using Python and further analyzed.
